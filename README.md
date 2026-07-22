@@ -1,6 +1,6 @@
 ![Network and DevOps banner](./network-devops-banner.png)
 
-# Hola, soy Luis Fontecilla 👋
+# Hola, soy Luis Fontecilla
 
 **Network & DevOps Professional · 9+ años en infraestructura TI**  
 Santiago, Chile · Disponible para networking profesional
