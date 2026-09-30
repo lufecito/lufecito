@@ -28,19 +28,6 @@ Profesional de TI especializado en redes, Linux e infraestructura, con más de n
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=2088FF)
 ![VMware](https://img.shields.io/badge/VMware-111827?style=flat-square&logo=vmware&logoColor=white)
 
-## Experiencia destacada / Selected work
-
-### Consola de diagnóstico de red para PDA · Telefónica Chile
-
-Solución orientada a centralizar y agilizar tareas de diagnóstico de red en terreno, reduciendo pasos manuales y facilitando la identificación de incidentes. El código y la información operativa son privados por motivos de confidencialidad.
-
-*A field-oriented solution designed to centralize and streamline network diagnostics, reduce manual steps, and support faster incident identification. Source code and operational details remain private for confidentiality reasons.*
-
-### SaaS de gestión de tickets · Optima Tech
-
-Plataforma para organizar el ciclo de atención de solicitudes e incidentes, mejorar la trazabilidad y apoyar la gestión operacional. El repositorio y los datos del proyecto son privados.
-
-*A platform for organizing the service-request and incident lifecycle, improving traceability, and supporting daily operations. The repository and project data are private.*
 
 ## Certificaciones / Certifications
 
