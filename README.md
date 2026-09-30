@@ -2,8 +2,8 @@
 
 # Hola, soy Luis Fontecilla
 
-**Network & DevOps Professional · 9+ años en infraestructura TI**  
-Santiago, Chile · Disponible para networking profesional
+**Network & Infrastructure Engineer | Cloud & DevOps | Linux | AWS | Terraform | Docker | Kubernetes | CCNA**  
+Santiago, Chile
 
 Profesional de TI especializado en redes, Linux e infraestructura, con más de nueve años de experiencia resolviendo incidentes, mejorando procesos de diagnóstico y apoyando la continuidad operacional. Actualmente amplío mi enfoque hacia DevOps, automatización y plataformas cloud.
 
